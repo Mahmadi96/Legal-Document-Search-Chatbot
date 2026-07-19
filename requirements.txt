@@ -1,0 +1,14 @@
+jupyter
+ipykernel
+pandas
+numpy
+pdfplumber
+nltk
+spacy
+contractions
+sentence-transformers
+torch
+scikit-learn
+rank-bm25
+openai
+python-dotenv

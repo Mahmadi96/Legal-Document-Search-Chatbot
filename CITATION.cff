@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Please cite this project if you use its code or research workflow."
+title: "Leveraging Information Retrieval and Large Language Models for Personalised Legal Document Search in International Law"
+type: software
+authors:
+  - family-names: "Ahmadi"
+    given-names: "Madiha"
+date-released: 2025-07-11
+repository-code: "https://github.com/Mahmadi96/personalised-legal-document-search"
+url: "https://github.com/Mahmadi96/personalised-legal-document-search"
