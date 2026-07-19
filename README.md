@@ -1,4 +1,4 @@
-# Personalised Legal Document Search in International Law
+# Leveraging Information Retrieval and Large Language Models for Personalised Legal Document Search in International Law
 
 **MSc Data Science thesis research prototype by Madiha Ahmadi**
 
@@ -90,7 +90,7 @@ The notebooks retain selected outputs from the original thesis implementation so
 ## Repository structure
 
 ```text
-personalised-legal-document-search/
+Leveraging-Information-Retrieval-and-Large-Language-Models-for-Personalised-Legal-Document-Search-in-International-Law/
 ├── assets/
 │   ├── bm25_evaluation.png
 │   ├── chatbot_concept.png
@@ -123,8 +123,8 @@ personalised-legal-document-search/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Mahmadi96/personalised-legal-document-search.git
-cd personalised-legal-document-search
+git clone https://github.com/Mahmadi96/Leveraging-Information-Retrieval-and-Large-Language-Models-for-Personalised-Legal-Document-Search-in-International-Law.git
+cd Leveraging-Information-Retrieval-and-Large-Language-Models-for-Personalised-Legal-Document-Search-in-International-Law
 ```
 
 ### 2. Create and activate a virtual environment
@@ -202,13 +202,6 @@ This image is a conceptual mock-up from the thesis, not evidence of a deployed S
 ## Security
 
 No API key is stored in this repository. The LLM notebook reads `OPENAI_API_KEY` from a local environment file or operating-system environment variable.
-
-Never commit:
-
-- `.env`
-- API keys or access tokens
-- private legal documents
-- confidential or personally identifiable information
 
 ## Academic context
 
